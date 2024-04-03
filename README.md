@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jasmine  
-- 👀 I’m interested learning how to code
+- 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning html, css, javascript
 - 😄 Pronouns: she/her
 - Languages: English, Spanish
-- I like to read, watch anime, game, code
+- I like to read, watch anime, game, code.
 
 <!---
 jmelgarN/jmelgarN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
